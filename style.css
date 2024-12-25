@@ -1,0 +1,14 @@
+/* Basic styling for the website */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+
